@@ -44,7 +44,7 @@ Essa parte de "hack" provavelmente se refere aos blocos de notas (anotações) q
 
 ## 🌟 Para me conhecer melhor:  
 
-[![Portfólio](https://camo.githubusercontent.com/704b13a2bdedafaf85238e99b1c8459aa96f715f3f737031b82f12eb6620381e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f7274662543332542336c696f2d62726f776e3f7374796c653d666f722d7468652d6261646765266c6f676f3d74727565)](https://natansan2002.github.io/Meu_Portfolio/)  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natan-santos-gomes-823a33228/)
+[![Portfólio](https://camo.githubusercontent.com/704b13a2bdedafaf85238e99b1c8459aa96f715f3f737031b82f12eb6620381e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f7274662543332542336c696f2d62726f776e3f7374796c653d666f722d7468652d6261646765266c6f676f3d74727565)](https://natan-santos.vercel.app/)  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natan-santos-gomes-823a33228/)
 
 
 
