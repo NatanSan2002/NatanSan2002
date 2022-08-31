@@ -48,7 +48,7 @@ Essa parte de "hack" provavelmente se refere aos blocos de notas (anotações) q
 
 
 
-Gosto do meu aprimoramento e satisfação depois de uma conclusão, e na programação ambos andam lado a lado.
+Gosto do meu aprimoramento e satisfação logo após uma conclusão difícil, e na programação tem tudo isso.
 
 
 
