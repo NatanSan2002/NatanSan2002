@@ -48,7 +48,7 @@ Essa parte de "hack" provavelmente se refere aos blocos de notas (anotações) q
 
 
 
-Tenho sede de aprimoramento.
+Gosto do meu aprimoramento e satisfação depois de uma conclusão, e na programação ambos andam lado a lado.
 
 
 
