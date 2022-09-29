@@ -3,7 +3,7 @@
 
 📚 No momento quero me aperfeiçoar na técnica de: Clean Code 
 
-## Linguagens que mais estudei 
+## Tenho maior domínio com
 
 <br/>
 
