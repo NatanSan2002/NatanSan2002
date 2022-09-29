@@ -31,7 +31,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NatanSan2002&show_icons=true&theme=dracula)  
 
-(Devia ter começado a usar o GitHub antes :/ )
+
 
 <br>
 
