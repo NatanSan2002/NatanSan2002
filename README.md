@@ -29,7 +29,7 @@
 
 ## Estatísticas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NatanSan2002&show_icons=true&theme=dracula)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NatanSan2002&show_icons=true&theme=radical)
 
 
 
@@ -50,7 +50,7 @@ Essa parte de "hack" provavelmente se refere aos blocos de notas (anotações) q
 
 
 
-Gosto do meu aprimoramento e satisfação logo após uma conclusão difícil, e na programação tem tudo isso.
+Estudante de desenvolvimento, motivado por desafios e focado em resultados e aprimoramento.
 
 
 
